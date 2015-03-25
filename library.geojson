@@ -1,0 +1,10 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [121.483035, 25.065532]
+  },
+  "properties": {
+    "name": "新北市立圖書館三重田中分館"
+  }
+}
